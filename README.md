@@ -5,7 +5,7 @@ DevOps-WebApp for maven web app projects
 
 ## By: Devops
 
-# Pre-reques:
+# Pre-requesite:
 ---------------
 -- Install Java
 -- Install maven
